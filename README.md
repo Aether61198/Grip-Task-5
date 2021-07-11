@@ -8,6 +8,4 @@ Algorithm Used- Linear Regression
 
 Dataset Used- https://bit.ly/34SRn3b
 
-Following Are My GitHub and YouTube Links of Task-1
-
 Youtube: https://youtu.be/ECmBajtIr6U
